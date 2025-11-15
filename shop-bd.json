@@ -1,0 +1,178 @@
+{
+  "smartphones": [
+    {
+      "id": 1,
+      "name": "TechOne S1",
+      "brand": "TechOne",
+      "price": 349,
+      "screen": "6.1'' AMOLED",
+      "battery": "4200 mAh",
+      "year": 2024,
+      "processor": "Snapdragon 7 Gen 1",
+      "memory": "8GB RAM, 128GB ROM",
+      "camera": "48MP",
+      "weight": "173g",
+      "availability": true
+    },
+    {
+      "id": 2,
+      "name": "Nova X5",
+      "brand": "Nova",
+      "price": 299,
+      "screen": "6.5'' IPS",
+      "battery": "5000 mAh",
+      "year": 2023,
+      "processor": "Helio G90T",
+      "memory": "6GB RAM, 128GB ROM",
+      "camera": "64MP",
+      "weight": "182g",
+      "availability": true
+    },
+    {
+      "id": 3,
+      "name": "Aero M10",
+      "brand": "Aero",
+      "price": 429,
+      "screen": "6.4'' OLED 90Hz",
+      "battery": "4500 mAh",
+      "year": 2024,
+      "processor": "Snapdragon 778G",
+      "memory": "8GB RAM, 256GB ROM",
+      "camera": "50MP",
+      "weight": "168g",
+      "availability": true
+    }
+  ],
+
+  "laptops": [
+    {
+      "id": 1,
+      "name": "UltraBook L15",
+      "brand": "UltraTech",
+      "price": 899,
+      "screen": "15.6'' IPS FHD",
+      "battery": "52Wh",
+      "year": 2024,
+      "processor": "Intel i5-1340P",
+      "memory": "16GB RAM, 512GB SSD",
+      "weight": "1.6kg",
+      "availability": true,
+      "gpu": "Intel Iris Xe"
+    },
+    {
+      "id": 2,
+      "name": "ProStation Z14",
+      "brand": "CoreWare",
+      "price": 1299,
+      "screen": "14'' OLED 2.8K",
+      "battery": "70Wh",
+      "year": 2024,
+      "processor": "AMD Ryzen 7 7840U",
+      "memory": "32GB RAM, 1TB SSD",
+      "weight": "1.3kg",
+      "availability": true,
+      "gpu": "Radeon 780M"
+    },
+    {
+      "id": 3,
+      "name": "TitanBook G17",
+      "brand": "Titan",
+      "price": 1599,
+      "screen": "17.3'' 144Hz",
+      "battery": "65Wh",
+      "year": 2023,
+      "processor": "Intel i7-12700H",
+      "memory": "16GB RAM, 1TB SSD",
+      "weight": "2.7kg",
+      "availability": false,
+      "gpu": "RTX 4060"
+    }
+  ],
+
+  "tablets": [
+    {
+      "id": 1,
+      "name": "PadMax 11",
+      "brand": "MaxTech",
+      "price": 249,
+      "screen": "11'' LCD 120Hz",
+      "battery": "7600 mAh",
+      "year": 2024,
+      "processor": "Snapdragon 6 Gen 1",
+      "memory": "6GB RAM, 128GB",
+      "weight": "520g",
+      "availability": true,
+      "connectivity": "Wi-Fi"
+    },
+    {
+      "id": 2,
+      "name": "SkyTab X10",
+      "brand": "Skyline",
+      "price": 299,
+      "screen": "10.4'' IPS",
+      "battery": "7000 mAh",
+      "year": 2023,
+      "processor": "Unisoc T618",
+      "memory": "4GB RAM, 64GB",
+      "weight": "486g",
+      "availability": true,
+      "connectivity": "Wi-Fi + LTE"
+    },
+    {
+      "id": 3,
+      "name": "Alpha TabPro 13",
+      "brand": "Alpha",
+      "price": 549,
+      "screen": "13'' OLED",
+      "battery": "10000 mAh",
+      "year": 2024,
+      "processor": "Snapdragon 8 Gen 2",
+      "memory": "8GB RAM, 256GB",
+      "weight": "600g",
+      "availability": false,
+      "connectivity": "Wi-Fi"
+    }
+  ],
+
+  "accessories": [
+    {
+      "id": 1,
+      "name": "SoundPro Earbuds S2",
+      "brand": "SoundPro",
+      "price": 59,
+      "battery": "500 mAh кейс",
+      "year": 2024,
+      "connection": "Bluetooth 5.3",
+      "weight": "42g",
+      "availability": true,
+      "range": "10m",
+      "waterproof": "IPX4"
+    },
+    {
+      "id": 2,
+      "name": "ChargeBox 65W",
+      "brand": "PowerMax",
+      "price": 29,
+      "year": 2024,
+      "weight": "120g",
+      "availability": true,
+      "ports": "USB-C + USB-A",
+      "power": "65W GaN",
+      "protection": "Overheat + Surge"
+    },
+    {
+      "id": 3,
+      "name": "SmartWatch Lite 3",
+      "brand": "LiveFit",
+      "price": 79,
+      "screen": "1.69'' LCD",
+      "battery": "300 mAh",
+      "year": 2023,
+      "processor": "FitChip F2",
+      "memory": "256MB",
+      "weight": "31g",
+      "availability": true,
+      "waterproof": "IP68"
+    }
+  ]
+}
